@@ -1,0 +1,14 @@
+{
+  "name": "web2-loja",
+  "version": "1.0.0",
+  "description": "CRUD com Node.js, Express e MySQL",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^5.1.0",
+    "mysql2": "^3.11.5"
+  }
+}
